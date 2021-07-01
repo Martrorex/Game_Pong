@@ -1,2 +1,2 @@
 # Game_Pong
-Game
+desenvolvido em javascript
